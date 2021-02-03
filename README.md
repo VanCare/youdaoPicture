@@ -3,3 +3,5 @@
 git add *
 
 git commit -m "add picture"
+
+git push
